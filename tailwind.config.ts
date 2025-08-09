@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'miami-orange': '#FF6B35',
+				'neon-cyan': '#00D4FF',
+				'dark-navy': '#1A1A2E',
+				'deep-blue': '#66213E',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
